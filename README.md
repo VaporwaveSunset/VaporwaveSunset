@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaporwaveSunset
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in software/game development
+- 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on software and games
 - 📫 How to reach me: Vaporwave Sunset#1216
 
