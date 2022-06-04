@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VaporwaveSunset
+- 👋 Hi, I’m Justin Mullings
 - 👀 I’m interested in software/game development
 - 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on software and games
